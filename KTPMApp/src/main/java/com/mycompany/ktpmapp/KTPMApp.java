@@ -12,6 +12,6 @@ package com.mycompany.ktpmapp;
 public class KTPMApp {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello Hieu");
     }
 }
